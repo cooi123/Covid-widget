@@ -1,4 +1,3 @@
-const GOOGLE_API_KEY = "AIzaSyBO0rdk0YwNoskmeO1d73dTv2HD_jcmBqc";
 let map;
 let allInfowindow = [];
 let autocomplete;
