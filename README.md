@@ -2,6 +2,6 @@
 This is a university project
 
 To run
-1. npm install
-2. npm run start
-3. go to http://localhost:5000/
+Open index.html in the Widget folder
+
+[Widget Site](https://cooi123.github.io/Covid-widget/)
